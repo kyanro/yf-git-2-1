@@ -14,5 +14,5 @@
 	git add .
 	git commit -m "5th commit. add source/folder1/source3"
 
-	git subtree push /c/repos/source/ master --prefix source/folder1/
+	git subtree push /c/repos/source/ master --prefix source/
 
